@@ -1,4 +1,3 @@
-import { readFileSync } from 'fs';
 import { loadFileString } from '../../util/file';
 
 const input = loadFileString(__dirname, '..', 'input.txt').split('\n');
